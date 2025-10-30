@@ -1,0 +1,7 @@
+{
+  "name": "AI HR Interviewer",
+  "description": "An application to conduct technical interviews for Frontend, Backend, and ML roles. The user interacts with the AI through voice, and the AI responds with spoken questions.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
