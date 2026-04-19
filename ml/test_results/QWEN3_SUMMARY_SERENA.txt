@@ -1,0 +1,19 @@
+QWEN3-TTS TEST SUMMARY
+model: Qwen/Qwen3-TTS-12Hz-0.6B-CustomVoice
+voice: Serena
+total_synth_time_sec: 220.46
+
+1. Технический текст с терминологией
+   file: qwen3_female_serena_test_1_customvoice.wav
+   duration_sec: 36.88
+   synth_time_sec: 69.72
+
+2. Бизнес-текст с англицизмами
+   file: qwen3_female_serena_test_2_customvoice.wav
+   duration_sec: 41.36
+   synth_time_sec: 77.90
+
+3. Научный текст с международными терминами
+   file: qwen3_female_serena_test_3_customvoice.wav
+   duration_sec: 40.32
+   synth_time_sec: 72.77

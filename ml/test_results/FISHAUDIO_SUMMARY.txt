@@ -1,0 +1,31 @@
+FISHAUDIO TEST SUMMARY
+model: fishaudio/fish-speech-1.5
+checkpoint_dir: /home/pc4/ai_hr/ml/fish-speech/checkpoints/fish-speech-1.5
+total_synth_time_sec: 218.12
+
+1. Технический текст с терминологией
+   file: fishaudio_v15_test_1.wav
+   sample_rate: 44100
+   duration_sec: 39.47
+   semantic_time_sec: 61.02
+   decode_time_sec: 6.75
+   total_case_time_sec: 67.77
+   device: cuda
+
+2. Бизнес-текст с англицизмами
+   file: fishaudio_v15_test_2.wav
+   sample_rate: 44100
+   duration_sec: 43.14
+   semantic_time_sec: 65.69
+   decode_time_sec: 6.37
+   total_case_time_sec: 72.06
+   device: cuda
+
+3. Научный текст с международными терминами
+   file: fishaudio_v15_test_3.wav
+   sample_rate: 44100
+   duration_sec: 50.25
+   semantic_time_sec: 70.50
+   decode_time_sec: 7.77
+   total_case_time_sec: 78.27
+   device: cuda

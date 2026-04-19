@@ -1,0 +1,19 @@
+QWEN3-TTS TEST SUMMARY
+model: Qwen/Qwen3-TTS-12Hz-0.6B-CustomVoice
+voice: Ryan
+total_synth_time_sec: 235.13
+
+1. Технический текст с терминологией
+   file: qwen3_test_1_customvoice.wav
+   duration_sec: 38.48
+   synth_time_sec: 72.74
+
+2. Бизнес-текст с англицизмами
+   file: qwen3_test_2_customvoice.wav
+   duration_sec: 48.32
+   synth_time_sec: 91.98
+
+3. Научный текст с международными терминами
+   file: qwen3_test_3_customvoice.wav
+   duration_sec: 37.44
+   synth_time_sec: 70.34
